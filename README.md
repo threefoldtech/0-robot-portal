@@ -53,4 +53,4 @@ j.tools.prefab.local.web.portal.start()
 Robot portal should be loaded now.
 
 # Repository Owners:
-* [rkhamis] (https://github.com/rkhamis), telegram: @rThursday
+* [rkhamis](https://github.com/rkhamis), telegram: @rThursday
